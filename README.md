@@ -27,7 +27,7 @@ Hello, I am a frontend developer with over 2 years of commercial development exp
 
 ## Career History
 
-### Frontend Developer - Israeli Startup / August 2022 - Present
+### Frontend Developer - Israeli Startup / August 2022 - ...
 
 **Project description:**
 
