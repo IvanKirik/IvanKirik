@@ -7,7 +7,7 @@ Hello, I am a frontend developer with over 2 years of commercial development exp
 ### Frontend:
 - HTML / CSS / SCSS / CSS Modules / BEM
 - JS / TS
-- Angular, NGRX
+- Angular, NGRX, NGXS
 - React, Redux
 - UI Frameworks (Bootstrap, Angular Material / Ant design, MUI)
 - Unit / Integration / Browser tests
